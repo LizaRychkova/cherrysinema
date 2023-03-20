@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap'); 
+
+body {
+	background-color: black;
+}
+.logo {
+	margin-top:20px;
+	margin-left: 20px;
+}
+.header {
+	font-size: 28px;
+}
+.input {
+	position: absolute;
+width: 520px;
+height: 535px;
+left: 200px;
+top: 150px;
+border-radius: 20px;
+	border: 4px solid #FF6EC7;
+}
+.register {
+	position: absolute;
+width: 520px;
+height: 535px;
+left: 827px;
+top: 150px;
+border-radius: 20px;
+	border: 4px solid #FF6EC7;
+}
+.in {
+display: block;
+margin: 0 auto;
+margin-top: 120px;
+margin-bottom: 50px;
+border: 3px solid #FF6EC7;
+border-radius: 20px;
+text-align: center;
+background-color: black;
+color: #FF6EC7;
+width: 300px;
+height: 50px;
+font-size: 20px;
+}
+
+.pass{
+	display: block;
+margin: 0 auto;
+margin-top: 50px;
+margin-bottom: 50px;
+border: 3px solid #FF6EC7;
+border-radius: 20px;
+text-align: center;
+background-color: black;
+color: #FF6EC7;
+width: 300px;
+height: 50px;
+font-size: 20px;
+}
+
+.reg {
+	display: block;
+margin: 0 auto;
+margin-top: 60px;
+margin-bottom: 50px;
+border: 3px solid #FF6EC7;
+border-radius: 20px;
+text-align: center;
+background-color: black;
+color: #FF6EC7;
+width: 300px;
+height: 50px;
+font-size: 20px;
+}
+
+.button {
+border: 3px solid #FF6EC7;
+border-radius: 20px;
+background-color: #911E42;
+color: #FF6EC7;
+margin-left: 110px;
+width: 300px;
+height: 55px;
+font-size: 20px;
+cursor: pointer;
+}
